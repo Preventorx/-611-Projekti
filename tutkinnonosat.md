@@ -1,49 +1,56 @@
-# Tutkinnonosat
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tutkinnonosat</title>
+  </head>
+  <body>
+    <h1>Tutkinnonosat</h1>
+    <h2>Tieto- ja viestintätekniikan perustehtävät, 25 osp</h2>
+    <p>Koodi: 106413 Järjestysnumero: 1</p>
 
-## Tieto- ja viestintätekniikan perustehtävät, 25 osp
+    <h3>Ammattitaitovaatimukset</h3>
+    <dl>
+      <dt>- Opiskelija toimii tieto- ja viestintätekniikan työtehtävissä</dt>
+      <dd>- toimii hyvällä palveluasenteella (1561)</dd>
+      <dd>- palvelee sisäisiä tai ulkoisia asiakkaita (1560)</dd>
+      <dd>- varmistaa asiakkaan tarpeen ja perustelee asiakkaalle ratkaisun (1559)</dd>
+      <dd>- pyytää palautetta omasta toiminnasta (1558)</dd>
+      <dd>- käyttää työpaikan viestintäkanavia ja ohjelmistoja (1557)</dd>
+      <dt>- Opiskelija tekee tiedonhakua ja ratkaisee tieto- ja viestintätekniikan ongelmia</dt>
+      <dd>- käyttää alan perussanastoa ja tuntee uusia trendejä (1556)</dd>
+      <dd>- hyödyntää englanninkielistä materiaalia ongelmanratkaisussa (1555)</dd>
+      <dd>- ratkaisee ongelmia hakemalla tietoa (1554)</dd>
+      <dt>- Opiskelija käyttää tietoteknistä ympäristöä</dt>
+      <dd>- käyttää työssä tarvittavia käyttöjärjestelmiä (1553)</dd>
+      <dd>- jakaa ja ottaa käyttöön verkkoyhteyden eri päätelaitteilla ottaen huomioon tietoturvan (1552)</dd>
+      <dd>- tuntee internetin ja koti- ja pienyrityksen verkon perusrakenteen (1551)</dd>
+      <dd>- hallitsee ja suojaa koti- ja pienyrityksen tietoliikenne- ja oheislaitteita (1550)</dd>
+    </dl>
 
-Koodi: 106413
-Järjestysnumero: 1
+    <h2>Ohjelmointi, 45 osp</h2>
+    <p>Koodi: 106419 Järjestysnumero: 7</p>
 
-### Ammattitaitovaatimukset
-
-- Opiskelija toimii tieto- ja viestintätekniikan työtehtävissä
-  - toimii hyvällä palveluasenteella (1561)
-  - palvelee sisäisiä tai ulkoisia asiakkaita (1560)
-  - varmistaa asiakkaan tarpeen ja perustelee asiakkaalle ratkaisun (1559)
-  - pyytää palautetta omasta toiminnasta (1558)
-  - käyttää työpaikan viestintäkanavia ja ohjelmistoja (1557)
-- Opiskelija tekee tiedonhakua ja ratkaisee tieto- ja viestintätekniikan ongelmia
-  - käyttää alan perussanastoa ja tuntee uusia trendejä (1556)
-  - hyödyntää englanninkielistä materiaalia ongelmanratkaisussa (1555)
-  - ratkaisee ongelmia hakemalla tietoa (1554)
-- Opiskelija käyttää tietoteknistä ympäristöä
-  - käyttää työssä tarvittavia käyttöjärjestelmiä (1553)
-  - jakaa ja ottaa käyttöön verkkoyhteyden eri päätelaitteilla ottaen huomioon tietoturvan (1552)
-  - tuntee internetin ja koti- ja pienyrityksen verkon perusrakenteen (1551)
-  - hallitsee ja suojaa koti- ja pienyrityksen tietoliikenne- ja oheislaitteita (1550)
-
-## Ohjelmointi, 45 osp
-
-Koodi: 106419
-Järjestysnumero: 7
-
-### Ammattitaitovaatimukset
-
-- Opiskelija käyttää ohjelmistokehitysympäristöä
-  - käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
-  - etsii ja korjaa virheitä ohjelmakoodista (1472)
-  - testaa ohjelman toimintoja (1471)
-- Opiskelija ohjelmoi
-  - käyttää rakenteista ohjelmointia toteutuksissa (1470)
-  - kirjoittaa ylläpidettävää ohjelmakoodia (1469)
-  - tulkitsee suunnitelmia ja toteuttaa käyttöliittymän tai sen osia (1468)
-  - tulkitsee suunnitelmia ja toteuttaa ohjelmiston toimintoja (1467)
-- Opiskelija toimii ohjelmistokehitystiimin jäsenenä
-  - sopii tehtävistä tiimin muiden jäsenten kanssa (1466)
-  - etsii ratkaisuvaihtoehtoja ja ratkoo ongelmia yhdessä tiimin kanssa (1465)
-  - arvioi ratkaisujen toimivuuden yhdessä tiimin kanssa (1464)
-  - arvioi omaa toimintaa tiimin jäsenenä (1463)
+    <h3>Ammattitaitovaatimukset</h3>
+    <dl>
+      <dt>- Opiskelija käyttää ohjelmistokehitysympäristöä</dt>
+      <dd>- käyttää ohjelmointieditoria tai kehitysympäristöä (1473)</dd>
+      <dd>- etsii ja korjaa virheitä ohjelmakoodista (1472)</dd>
+      <dd>- testaa ohjelman toimintoja (1471)</dd>
+      <dt>- Opiskelija ohjelmoi</dt>
+      <dd>- käyttää rakenteista ohjelmointia toteutuksissa (1470)</dd>
+      <dd>- kirjoittaa ylläpidettävää ohjelmakoodia (1469)</dd>
+      <dd>- tulkitsee suunnitelmia ja toteuttaa käyttöliittymän tai sen osia (1468)</dd>
+      <dd>- tulkitsee suunnitelmia ja toteuttaa ohjelmiston toimintoja (1467)</dd>
+      <dt>- Opiskelija toimii ohjelmistokehitystiimin jäsenenä</dt>
+      <dd>- sopii tehtävistä tiimin muiden jäsenten kanssa (1466)</dd>
+      <dd>- etsii ratkaisuvaihtoehtoja ja ratkoo ongelmia yhdessä tiimin kanssa (1465)</dd>
+      <dd>- arvioi ratkaisujen toimivuuden yhdessä tiimin kanssa (1464)</dd>
+      <dd>- arvioi omaa toimintaa tiimin jäsenenä (1463)</dd>
+    </dl>
+    
+  </body>
+</html> 
+   
 
 ## Ohjelmistokehittäjänä toimiminen, 45 osp
 Koodi: 106420
